@@ -1,7 +1,6 @@
-### Hi there 👋, my name Himanshu
+### Hi there 👋
  I'm Himanshu Kumar Mayank, a Computer Science and Engineering graduate currently working at Amazon. Beyond my professional life, I have a passion for continuous learning and exploring new technologies. Solving problems is something I truly enjoy, and Competitive Programming has been a significant part of my journey.
-
-- 🔭 I’m currently working on this page. 
+ 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/himanshu81023)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/himanshu-kumar-mayank-6411291a4/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/23306888/himanshu)  
